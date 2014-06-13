@@ -28,6 +28,11 @@
 		97C8365E1949176E00973D62 /* Homework Assignment 5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Homework Assignment 5"; sourceTree = BUILT_PRODUCTS_DIR; };
 		97C836611949176E00973D62 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		97C836631949176E00973D62 /* Homework_Assignment_5.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Homework_Assignment_5.1; sourceTree = "<group>"; };
+		97C8366D19491D8200973D62 /* Ex_05_01.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex_05_01.h; sourceTree = "<group>"; };
+		97C8366E194924D500973D62 /* Ex_05_02.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex_05_02.h; sourceTree = "<group>"; };
+		97C8366F194928A200973D62 /* Ex_05_03.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex_05_03.h; sourceTree = "<group>"; };
+		97C836701949611300973D62 /* Ex_05_04.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex_05_04.h; sourceTree = "<group>"; };
+		97C8367119496EB800973D62 /* Ex_05_05.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Ex_05_05.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +66,11 @@
 			isa = PBXGroup;
 			children = (
 				97C836611949176E00973D62 /* main.cpp */,
+				97C8366D19491D8200973D62 /* Ex_05_01.h */,
+				97C8366E194924D500973D62 /* Ex_05_02.h */,
+				97C8366F194928A200973D62 /* Ex_05_03.h */,
+				97C836701949611300973D62 /* Ex_05_04.h */,
+				97C8367119496EB800973D62 /* Ex_05_05.h */,
 				97C836631949176E00973D62 /* Homework_Assignment_5.1 */,
 			);
 			path = "Homework Assignment 5";
